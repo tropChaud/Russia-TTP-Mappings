@@ -1,12 +1,12 @@
 {
-	"name": "layer by operation",
+	"name": "Russia-Ukraine Key Actors & Malware - Combined",
 	"versions": {
 		"attack": "10",
 		"navigator": "4.5.5",
 		"layer": "4.3"
 	},
 	"domain": "enterprise-attack",
-	"description": "",
+	"description": "ATT&CK Navigator layers for key Russia-aligned adversaries during the 2022 Ukraine crisis",
 	"filters": {
 		"platforms": [
 			"Linux",
